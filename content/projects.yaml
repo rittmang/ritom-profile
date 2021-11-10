@@ -1,0 +1,53 @@
+- name: Video Streaming Platform
+  url: https://github.com/rittmang/ror-php
+  description: Full-stack responsiveweb app to upload & stream content, with integrated dashboard for title management & Chromecast support. 
+  status: live
+  tags:
+    - Laravel
+    - Javascript
+    - PostgreSQL
+    - Firebase
+  icon: github
+  image: images/ror-movies.png
+
+- name: Open Graph Image Generator (fork)
+  url: https://github.com/rittmang/og-image
+  description: Serverless service to generate dynamic Open Graph images for streaming platform project.
+  status: in progress
+  tags:
+    - Next.js
+    - HTML
+    - CSS
+  icon: github
+  image: images/og-image-example.png
+
+- name: Custom Video Player
+  url: https://ror-testplayer.netlify.app/
+  description: HTML5 video player, with custom subtitle design and Chromecast functionality for streaming platform project.
+  status: in progress
+  tags:
+    - HTML
+    - CSS
+    - Javascript
+    - Google Cast
+  icon: website
+  image: images/ror-test-player.png
+
+- name: GRE Writing Tool
+  url: https://rightonrittman.in/writing
+  description: Online practice writing tool for GRE writing questions, with timer support
+  status: live
+  tags:
+    - HTML
+    - CSS
+    - JS
+  icon: website
+
+- name: GRE Word Revision Bot
+  url: https://github.com/rittmang/GREWordBot
+  description: Word lists revision bot for GRE verbal prep, sends a randomized non-repeating selection of words with meanings from a word bank
+  status: offline
+  tags:
+    - Python
+    - MongoDB
+  icon: github
