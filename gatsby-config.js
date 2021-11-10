@@ -15,6 +15,5 @@ module.exports = {
         theme: "dark-green",
       },
     },
-    `gatsby-plugin-sharp`
   ],
 }
