@@ -1,6 +1,6 @@
 - name: Video Streaming Platform
   url: https://github.com/rittmang/ror-php
-  description: Full-stack responsiveweb app to upload & stream content, with integrated dashboard for title management & Chromecast support. 
+  description: Full-stack responsive web app to upload & stream content, with integrated dashboard for title management & Chromecast support. 
   status: live
   tags:
     - Laravel
@@ -34,7 +34,7 @@
   image: images/ror-test-player.png
 
 - name: GRE Writing Tool
-  url: https://rightonrittman.in/writing
+  url: https://writing.rightonrittman.in
   description: Online practice writing tool for GRE writing questions, with timer support
   status: live
   tags:
