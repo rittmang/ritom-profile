@@ -1,16 +1,16 @@
 - profile:
   initials: RG
   name: Ritom Gupta
-  profession: Full Stack Web Developer
+  profession: Full Stack Developer
   image: images/profile.jpg
   location: Gurugram (NCR), India
   relocation: true
-  company: Freelancer
-  for_hire: true
+  company: GrowthX
+  for_hire: false
   focus: Making my own Netflix
   focus_url: https://github.com/rittmang/ror-php
   about: |
-    A dedicated individual, happy to make a difference.
+    A dedicated individual, happy to make a technological difference for individuals and businesses.
     Being extremely fond of new ideas and delivering them to people, I believe in the inherent capability of technology to better everyone's lives.
 
     I'm actively involved in developing applications and establishing brand presence.
@@ -23,7 +23,7 @@
     - NodeJS
     - Gatsby
   budget:
-    currency: $
+    currency: ₹
     min: 5
-    max: 30
+    max: 100
     default: 10

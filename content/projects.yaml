@@ -13,7 +13,7 @@
 - name: Open Graph Image Generator (fork)
   url: https://github.com/rittmang/og-image
   description: Serverless service to generate dynamic Open Graph images for streaming platform project.
-  status: in progress
+  status: live
   tags:
     - Next.js
     - HTML
