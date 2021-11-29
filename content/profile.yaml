@@ -1,27 +1,34 @@
 - profile:
   initials: RG
   name: Ritom Gupta
-  profession: Full Stack Developer
+  profession: Full Stack Developer ⚡
   image: images/profile.jpg
   location: Gurugram (NCR), India
   relocation: true
-  company: GrowthX
+  company: GrowthX.club
   for_hire: false
-  focus: Making my own Netflix
-  focus_url: https://github.com/rittmang/ror-php
+  focus: Tech @GrowthX
+  focus_url: https://growthx.club
   about: |
     A dedicated individual, happy to make a technological difference for individuals and businesses.
     Being extremely fond of new ideas and delivering them to people, I believe in the inherent capability of technology to better everyone's lives.
 
     I'm actively involved in developing applications and establishing brand presence.
+
+    B.Tech CSE, MIT-WPU Pune (CGPA: 9.94)
   skills:
+    - Web Development
+    - Backend Infrastructure
+    - Automation & Scripting
+    - Content Creation
+    - SEO & Marketing
+  tools:
     - Javascript
     - PHP
     - Python
-  tools:
-    - Laravel
-    - NodeJS
-    - Gatsby
+    - HTML/CSS
+    - Bash
+    - Linux
   budget:
     currency: ₹
     min: 5

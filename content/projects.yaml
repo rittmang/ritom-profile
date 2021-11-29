@@ -42,12 +42,28 @@
     - CSS
     - JS
   icon: website
+  image: images/writing-tool.png
 
 - name: GRE Word Revision Bot
   url: https://github.com/rittmang/GREWordBot
   description: Word lists revision bot for GRE verbal prep, sends a randomized non-repeating selection of words with meanings from a word bank
-  status: offline
   tags:
     - Python
     - MongoDB
+    - Google Sheets API
+    - Google Appscript
   icon: github
+  image: images/wordbot-tg.png
+
+- name: Principal Global Hackathon (Dental Provider Credentialing)
+  url: https://www.youtube.com/watch?v=Ccye7dxNWpY
+  description: Nominated by MIT World Peace University to participate in Imagine Hackathon organised by Principal Global Financial Services. We developed an automated system to authenticate credentials of incoming dentists at PGS USA. The system automatically extracted application form details, to send queries to custom built APIs. Data collected had to be verified against official government website data for freshness. Our custom API parsed queries to asynchronously authenticate the data. This system was built as a Proof of Concept (POC) to upgrade the existing 3rd Party Manual Verification system deployed at PGS.
+  tags:
+    - Hackathon
+    - HTML
+    - CSS
+    - JS
+    - Spring Boot
+    - NodeJS
+  icon: website
+  image: images/pg-hack-dental.jpg
