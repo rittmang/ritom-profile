@@ -1,6 +1,6 @@
 - name: Video Streaming Platform
   url: https://github.com/rittmang/ror-php
-  description: Full-stack responsive web app to upload & stream content, with integrated dashboard for title management & Chromecast support. 
+  description: Full Stack responsive web app to upload & stream content, with integrated dashboard for title management & Chromecast support. 
   status: live
   tags:
     - Laravel
@@ -10,16 +10,16 @@
   icon: github
   image: images/ror-movies.png
 
-- name: Open Graph Image Generator (fork)
+- name: Link Preview Image Generator
   url: https://github.com/rittmang/og-image
-  description: Serverless service to generate dynamic Open Graph images for streaming platform project.
+  description: Serverless service to generate dynamic Open Graph images, as add-on for above project. 
   status: live
   tags:
     - Next.js
     - HTML
     - CSS
   icon: github
-  image: images/og-image-example.png
+  image: images/og-image-generator.jpg
 
 - name: Custom Video Player
   url: https://ror-testplayer.netlify.app/
