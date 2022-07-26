@@ -3,12 +3,12 @@
   name: Ritom Gupta
   profession: Full Stack Developer ⚡
   image: images/profile.jpg
-  location: Los Angeles, California
-  relocation: false
+  location: Los Angeles, California 🌴
+  relocation: true
   company: RightOnRittman
   for_hire: true
   focus: MSCS @ USC, LA
-  focus_url: https://growthx.club
+  focus_url: https://www.cs.usc.edu/academic-programs/masters/
   about: |
     I've always believed in creating technology to better everyone's lives - as a student, and as a working professional.
 
@@ -45,6 +45,6 @@
     - Linux
   budget:
     currency: $
-    min: 50
-    max: 10000
-    default: 100
+    min: 1
+    max: 100
+    default: 10
