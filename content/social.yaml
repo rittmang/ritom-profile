@@ -1,14 +1,14 @@
-- name: linkedin
-  url: https://linkedin.com/in/ritomgupta
-
 - name: twitter
   url: https://twitter.com/rittmang
 
+- name: linkedin
+  url: https://linkedin.com/in/ritomgupta
+
 - name: facebook
-  url: https://www.facebook.com/rittmang
+  url: 
 
 - name: instagram
-  url: https://www.instagram.com/monsieur_rittman/
+  url: 
 
 - name: dribbble
   url:

@@ -3,31 +3,45 @@
   name: Ritom Gupta
   profession: Full Stack Developer ⚡
   image: images/profile.jpg
-  location: Gurugram (NCR), India
-  relocation: true
-  company: GrowthX.club
-  for_hire: false
-  focus: Tech @GrowthX
+  location: Los Angeles, California
+  relocation: false
+  company: RightOnRittman
+  for_hire: true
+  focus: MSCS @ USC, LA
   focus_url: https://growthx.club
   about: |
-    A dedicated individual, happy to make a technological difference for individuals and businesses.
-    Being extremely fond of new ideas and delivering them to people, I believe in the inherent capability of technology to better everyone's lives.
+    I've always believed in creating technology to better everyone's lives - as a student, and as a working professional.
 
-    I'm actively involved in developing applications and establishing brand presence.
+    Besides developing at GrowthX, I also built my own Netflix just to watch the content I like. Because no platform solves that for me, not even Netflix.
 
-    B.Tech CSE, MIT-WPU Pune (CGPA: 9.94)
+    🟩 Typical question I'm asked: "Which languages and frameworks do you know?"
+    My interview response: "So there's Python, Java, Node..."
+    What I mean: "Give me anything with sane documentation and a help forum, I'll get it done."
+
+    What do I do everyday?
+
+    💻 Get a feature running on any project.
+    Yes it's a pain, but I like to challenge myself to do it.
+
+    📕 Read books. 
+    Fiction usually. I don't find great value in self-help books.
+
+    🎶 Listen to my favourite tracks on loop. 
+    It's insanely comforting. Only when I can give full attention, do I explore other genres.
+
   skills:
     - Web Development
-    - Backend Infrastructure
+    - Cloud Infrastructure
+    - Product Development
     - Automation & Scripting
     - Content Creation
     - SEO & Marketing
   tools:
-    - Javascript
+    - JS
     - PHP
     - Python
+    - NextJS
     - HTML/CSS
-    - Bash
     - Linux
   budget:
     currency: ₹
